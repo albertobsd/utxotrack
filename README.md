@@ -1,4 +1,4 @@
-# uxtotrack
+# utxotrack
 python tools to track back uxtos, address and bitcoin stuff
 
 run without arguments:
